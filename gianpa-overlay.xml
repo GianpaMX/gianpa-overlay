@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<repositories encoding="UTF-8" version="1.1">
+  <repo priority="50" quality="experimental">
+    <name>gianpa-overlay</name>
+    <description>Gianpa Overlay</description>
+    <homepage>https://gianpamx.github.io/gianpa-overlay</homepage>
+    <owner>
+      <email>juan64@gmail.com</email>
+      <name>Gianpa</name>
+    </owner>
+    <source type="git">https://github.com/GianpaMX/gianpa-overlay.git</source>
+  </repo>
+</repositories>
